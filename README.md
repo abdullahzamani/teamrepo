@@ -1,6 +1,7 @@
 # teamrepo
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *syafwan
 =======
 Testing repo team file
@@ -12,3 +13,7 @@ Testing repo team file
  
  *shazliana aslan
 >>>>>>> 066c70271cac56e18446bc3a481944c64c083387
+=======
+
+*nama saya zairul iftarsani
+>>>>>>> 17813bd974d7cfed25646666103f7db90d9d7a16
